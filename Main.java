@@ -37,10 +37,3 @@ public class Main
 	   System.out.println(star);
 	}
 }
-
-//Output:
-//****************
-//* welcome	     *
-//* to		     *
-//* freespace!!! *
-//****************
